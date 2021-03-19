@@ -1,6 +1,4 @@
 # POO python 001
- 1°repositório
+ prática de POO
+ criação de classes cadastro e curso
  
- criado em 19/03/2021
-
-editei
